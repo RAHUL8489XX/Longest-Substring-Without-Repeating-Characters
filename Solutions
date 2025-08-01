@@ -1,4 +1,4 @@
-```
+
 class Solution:
     def lengthOfLongestSubstring(self, s):
         seen = set()
